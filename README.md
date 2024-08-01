@@ -8,6 +8,8 @@ The screencasts are **[available from UHHCloud](https://cloud.uni-hamburg.de/s/d
 
 ## Screecasts
 
+Screencasts were recorded with size 1260 x 100 on macOS using the [Screenshot toolbar](https://support.apple.com/en-us/102618).
+
 - Screencast of the "Version Control Book"
 - Screencast of the exercises in the "Version Control Book"
 - Screencast of the Version Control Course website
