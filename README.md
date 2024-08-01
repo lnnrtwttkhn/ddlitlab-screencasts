@@ -28,6 +28,10 @@ datalad create-sibling-webdav \
   'https://cloud.uni-hamburg.de/remote.php/dav/files/bbc5706/ddlitlab-screencasts'
 ```
 
+```bash
+datalad siblings configure -s origin --publish-depends uhhcloud
+```
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
