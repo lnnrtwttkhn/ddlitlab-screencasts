@@ -1,1 +1,2 @@
 8ebd81fb-a325-4082-a262-66f3e7fb18fa encryption=none exporttree=yes name=uhhcloud-storage type=webdav url=https://cloud.uni-hamburg.de/remote.php/dav/files/bbc5706/ddlitlab-screencasts timestamp=1722508572s
+b815c0aa-715d-45d5-a91b-1430a8bb511c autoenable=true location=https://gin.g-node.org/lnnrtwttkhn/ddlitlab-screencasts name=gin-src type=git timestamp=1722518656s
